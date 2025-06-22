@@ -8,7 +8,7 @@ Both of these scripts have a collection of services, software, and registry entr
 
 # **HEY!**
 
-Newer versions have **more** that gets disabled!
+Newer versions disable even **more**!
 
 # Problems?
 
