@@ -1,5 +1,6 @@
 REM This is version 2 it has a little more I might not make v3 but idk
 
+TITLE Windows Optimizer - Version 2
 @echo off
 setlocal enabledelayedexpansion
 net session >nul 2>&1
