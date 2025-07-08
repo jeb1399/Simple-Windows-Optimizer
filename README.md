@@ -1,3 +1,6 @@
+# Warning
+**WARNING** - This script removes edge which may break some applications that use it for viewing websites so please make sure to either skip the uninstallation of it or install another browser if and before you decide to continue.
+
 # What it is.
 
 Just a simple windows optimizer that works with windows 10. Its a small batch script you can trust because I dont even know how to obfuscate that kind of stuff.
