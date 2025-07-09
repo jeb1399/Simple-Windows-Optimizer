@@ -9,6 +9,10 @@ Just a simple windows optimizer that works with windows 10. Its a small batch sc
 
 Both of these scripts have a collection of services, software, and registry entries to disable, modify, or delete including the most common to stuff you wouldnt normally find in these kind of scripts.
 
+# "Windows protected your PC" error fix
+
+To fix this just click "More info" and click "Run anyway". This shows up because the script makes a few registry edits and deletes some old and unused system files which windows doesnt like.
+
 # **HEY!**
 
 Newer versions disable even **more**!
